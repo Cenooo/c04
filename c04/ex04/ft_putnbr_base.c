@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_base.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ydumaine <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cepolat  <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/24 13:11:07 by ydumaine          #+#    #+#             */
 /*   Updated: 2022/01/24 22:20:32 by ydumaine         ###   ########.fr       */
