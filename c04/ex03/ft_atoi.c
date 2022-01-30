@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ydumaine <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cepolat  <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/22 11:38:12 by ydumaine          #+#    #+#             */
 /*   Updated: 2022/01/29 13:33:19 by ydumaine         ###   ########.fr       */
